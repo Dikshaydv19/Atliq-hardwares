@@ -1,8 +1,22 @@
 # Atliq-hardwares
 Atliq Hardware is a company moving towards advanced analytics, but Excel still has a stronghold in data-informed decision making
 
- ETL (Extract Transform and Load)
-created connections among tables using Data Modelling.
-created an additional dim_date table in Power Query.
-created a customer net sales performance report.
-created a report for the market (or country) wise performance vs target.
+Sales and Finance report of AtliQ Technologies 
+
+I've used detailed analysis of sales and finances in the FMCG industry to come up with practical suggestions. I've helped businesses grow by using data to make smart decisions. I'm skilled in
+
+-organizing and transforming data
+
+- using tools like ETL(extract transfer and load) and DAX
+
+-power query (cleaning data, merging data, adding new columns)
+
+-conditional formatting
+
+- Finance Analytics : Profit and loss
+
+-Salea Analytics
+
+
+
+
